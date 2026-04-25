@@ -34,3 +34,5 @@ Extremely effective turrets!
 I hope Vestoril will be a fun mod!
 
 This mod is in Alpha (Version 0.1). Everything is subject to change.
+
+For now, I'm keeping this mod away from the mod browser in-game, as there really isn't much here.
