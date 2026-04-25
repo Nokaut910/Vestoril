@@ -1,11 +1,11 @@
-name: vestoril
-displayName: Vestoril
-author: Nokaut
-subtitle: Advanced refinery 102!
+name: "vestoril"
+displayName: "Vestoril"
+author: "Nokaut"
+subtitle: "Advanced refinery 102!"
 description: 
 '''
 Vestoril is a planet.
 '''
 Version: "0.1"
-repo: Nokaut910/Vestoril
-minGameVersion: 154
+repo: "Nokaut910/Vestoril"
+minGameVersion: "157.4"
