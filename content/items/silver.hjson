@@ -1,0 +1,6 @@
+name: Silver
+description: "A common material found on Vestoril. Used for basic building. Weak on its own, so it has to be reinforced for bigger buildings."
+alwaysUnlocked: true
+color: bdbdbd
+research: vestoril-core-inception
+shownPlanets: [vestoril]

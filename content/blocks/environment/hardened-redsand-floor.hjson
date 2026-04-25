@@ -1,0 +1,4 @@
+type: Floor
+name: Hardened Red Sand
+description: A floor with red sand, but it's hardened so you can't mine it.
+variants: 3

@@ -1,0 +1,5 @@
+type: Floor
+name: Red Sand
+description: This floor contains red sand. Mine it to obtain it.
+itemDrop: sand
+variants: 3

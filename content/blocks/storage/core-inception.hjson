@@ -1,0 +1,22 @@
+type: CoreBlock
+name: Core: Inception
+description: Possibly the simplest core there is. Low armor and mediocre unit. Stores 3000 items.
+requirements: [
+  silver/1000
+  lead/900
+]
+isFirstTier: true
+size: 3
+squareSprite: false
+alwaysUnlocked: true
+unitType: alpha
+health: 1250
+itemCapacity: 3000
+unitCapModifier: 6
+category: effect
+research: {
+  planet: vestoril
+  root: true
+  name: Vestoril
+  requiresUnlock: false
+}
