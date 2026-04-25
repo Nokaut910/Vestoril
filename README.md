@@ -8,7 +8,7 @@ New content:
 
 ? new sectors!
 
-? new resources
+? new resources!
 
 ------------------
 Whole new set of blocks!
