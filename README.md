@@ -3,11 +3,8 @@ Welcome to Vestoril!
 Vestoril is a Mindustry planet mod which aims for making a difficult, yet fun to play campaign.
 
 New content:
-
 1 new planet!
-
 ? new sectors!
-
 ? new resources
 
 
