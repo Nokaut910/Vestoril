@@ -117,4 +117,7 @@ parent: sun
 solarSystem: sun
 launchCandidates: []
 itemWhitelist: [
+silver
+lead
+water
 ]
