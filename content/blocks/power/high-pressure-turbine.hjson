@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: High Pressure Turbine
+description: Turns High Pressure Steam into high torque and Low Pressure Steam. Place first in a turbine setup.
+size: 3
+scaledHealth: 240
+squareSprite: false
+outputItems: [
+  water/4
+]
+consumes: {
+  items: [
+water/2
+  ]
+}
+craftTime: 0.33
+category: power
+requirements: [
+  silver/240
+  lead/300
+]
+ambientSound: loopGrind
+ambientSoundVolume: 0.08
+researchCostMultiplier: 0.6
