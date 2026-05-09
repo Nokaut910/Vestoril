@@ -4,11 +4,11 @@ description: Turns High Pressure Steam into high torque and Low Pressure Steam. 
 size: 3
 scaledHealth: 240
 squareSprite: false
-outputItems: [
+outputLiquids: [
   water/4
 ]
 consumes: {
-  items: [
+  liquid: [
 water/2
   ]
 }
