@@ -8,29 +8,16 @@ research: {
 }
 squareSprite: false
 requirements: [
-  silver/50
-  lead/40
+	silver/50
+	lead/40
 ]
-consumes: LowPressureSteam/120
+consumes: {
+	LowPressureSteam/120
+}
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
 itemDuration: 120
 generateEffect: generatespark
 ambientSound: loopSmelter
 ambientSoundVolume: 0.03
-drawer: {
-  type: DrawMulti
-  drawers: [
-    {
-      type: DrawRegion
-      suffix: -bottom
-    }
-    {
-      type: DrawCrucibleFlame
-    }
-    {
-      type: DrawDefault
-    }
-  ]
-} 
 researchCostMultiplier: 0.5
