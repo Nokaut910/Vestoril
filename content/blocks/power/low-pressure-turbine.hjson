@@ -1,0 +1,38 @@
+type: ConsumeGenerator
+name: Low Pressure Turbine
+description: Turns torque and Low Pressure Steam (Byproduct of the High Pressure Turbine) into Power and lower amounts of Low Pressure Steam.
+size: 3
+category: power
+research: {
+  parent: high-pressure-turbine
+}
+squareSprite: false
+requirements: [
+  silver/50
+  lead/40
+]
+consumes: {
+  LowPressureSteam/120
+}
+outputLiquid: LowPressureSteam/60
+powerProduction: 250
+itemDuration: 120
+generateEffect: generatespark
+ambientSound: loopSmelter
+ambientSoundVolume: 0.03
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawCrucibleFlame
+    }
+    {
+      type: DrawDefault
+    }
+  ]
+} 
+researchCostMultiplier: 0.5
