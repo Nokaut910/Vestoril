@@ -5,12 +5,12 @@ size: 3
 scaledHealth: 240
 squareSprite: false
 outputLiquids: [
-  water/4
+  LowPressureSteam/4
 ]
 consumes: {
-  liquid: water/2
+  liquid: HighPressureSteam/2
 }
-craftTime: 0.33
+craftTime: 1
 category: power
 requirements: [
   silver/240
