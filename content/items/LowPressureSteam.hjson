@@ -1,0 +1,19 @@
+name: Low Pressure Steam
+description: Generated in a High Pressure Turbine as a byproduct. You can recondensate it into Water using a Steam Condenser, or incinerate it.
+heatCapacity: 1
+explosiveness: 0
+temperature: 0.8
+coolant: false
+viscosity: 0
+gas: true
+color: d1d1d1
+flammability: 0
+gasColor: d1d1d1
+barColor: d1d1d1
+incinerable: true
+lightColor: ffffff00
+research: {
+  parent: HighPressureSteam
+  objectives: [ 
+  ]
+}
