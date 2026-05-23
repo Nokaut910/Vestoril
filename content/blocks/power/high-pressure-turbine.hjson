@@ -8,9 +8,7 @@ outputLiquids: [
   water/4
 ]
 consumes: {
-  liquid: [
-water/2
-  ]
+  liquid: water/2
 }
 craftTime: 0.33
 category: power
