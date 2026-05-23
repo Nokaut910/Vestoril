@@ -1,0 +1,19 @@
+name: High Pressure Steam
+description: Generated in a Heat Exchanger. Only used to create torque and Low Pressure Steam in a High Pressure Turbine.
+heatCapacity: 1
+explosiveness: 0
+temperature: 0.85
+coolant: false
+viscosity: 0
+gas: true
+color: bfbfbf
+flammability: 0
+gasColor: bfbfbf
+barColor: bfbfbf
+incinerable: true
+lightColor: ffffff00
+research: {
+  parent: silver
+  objectives: [ 
+  ]
+}
