@@ -11,9 +11,7 @@ requirements: [
   silver/50
   lead/40
 ]
-consumes: {
-  LowPressureSteam/120
-}
+consumes: LowPressureSteam/120
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
 itemDuration: 120
