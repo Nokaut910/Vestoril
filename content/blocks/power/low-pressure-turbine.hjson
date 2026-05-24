@@ -11,11 +11,10 @@ requirements: [
 	silver/300
 	lead/250
 ]
-consumes:
-	"LowPressureSteam"
+consumes: LowPressureSteam
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
-itemDuration: 120
+itemDuration: 1
 generateEffect: generatespark
 ambientSound: loopSmelter
 ambientSoundVolume: 0.03
