@@ -11,9 +11,9 @@ requirements: [
 	silver/300
 	lead/250
 ]
-consumes: {
+consumes:
 	"LowPressureSteam"
-: }
+:
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
 itemDuration: 120
