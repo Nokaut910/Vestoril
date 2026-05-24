@@ -12,7 +12,7 @@ requirements: [
 	lead/250
 ]
 consumesLiquid: {
-	"LowPressureSteam"/120
+	LowPressureSteam
 }
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
