@@ -12,8 +12,8 @@ requirements: [
 	lead/250
 ]
 consumes: LowPressureSteam
-outputLiquid: LowPressureSteam/60
-powerProduction: 250
+outputLiquid: LowPressureSteam/1
+powerProduction: 15
 itemDuration: 1
 generateEffect: generatespark
 ambientSound: loopSmelter
