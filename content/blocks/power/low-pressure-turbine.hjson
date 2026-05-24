@@ -8,11 +8,11 @@ research: {
 }
 squareSprite: false
 requirements: [
-	silver/50
-	lead/40
+	silver/300
+	lead/250
 ]
-consumes: {
-LowPressureSteam/120
+consumesLiquid: {
+	LowPressureSteam/120
 }
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
