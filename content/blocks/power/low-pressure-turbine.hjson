@@ -13,7 +13,6 @@ requirements: [
 ]
 consumes:
 	"LowPressureSteam"
-:
 outputLiquid: LowPressureSteam/60
 powerProduction: 250
 itemDuration: 120
