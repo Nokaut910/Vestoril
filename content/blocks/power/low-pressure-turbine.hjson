@@ -13,9 +13,9 @@ requirements: [
 ]
 consumes: LowPressureSteam
 outputLiquid: LowPressureSteam/1
-powerProduction: 15
+powerProduction: 60
 itemDuration: 1
 generateEffect: generatespark
 ambientSound: loopSmelter
-ambientSoundVolume: 0.03
+ambientSoundVolume: 0.8
 researchCostMultiplier: 0.5
