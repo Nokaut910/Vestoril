@@ -1,0 +1,6 @@
+name: Neodite
+description: "An extremely strong material created on Vestoril. Created from the strongest and weakest metals, this material is used in high-tier unit production and complex processes."
+alwaysUnlocked: false
+color: c1dbb6
+research: silver
+shownPlanets: [vestoril]
