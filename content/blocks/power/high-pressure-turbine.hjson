@@ -19,4 +19,10 @@ requirements: [
 ambientSound: loopGrind
 ambientSoundVolume: 0.08
 researchCostMultiplier: 0.6
-research: core-inception
+research: {
+parent: core-inception
+requirements: [
+	silver/700
+	lead/1900
+]
+}

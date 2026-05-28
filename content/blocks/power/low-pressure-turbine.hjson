@@ -11,7 +11,7 @@ requirements: [
 	silver/300
 	lead/250
 ]
-consumes: LowPressureSteam
+consumesLiquid: LowPressureSteam
 outputLiquid: LowPressureSteam/1
 powerProduction: 60
 itemDuration: 1
@@ -19,4 +19,10 @@ generateEffect: generatespark
 ambientSound: loopSmelter
 ambientSoundVolume: 0.8
 researchCostMultiplier: 0.5
-research: high-pressure-turbine
+research: {
+parent: high-pressure-turbine
+requirements: [
+	silver/500
+	lead/900
+]
+}
