@@ -1,0 +1,9 @@
+type: "Conveyor"
+name: "Silver Conveyor"
+description: "Moves items forward. Has a speed of 6 items per second."
+requirements: [
+	silver/1
+]
+category: "distribution"
+speed: 6
+research: "core-inception"
