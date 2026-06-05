@@ -5,6 +5,6 @@ requirements: [
 	silver/1
 ]
 category: "distribution"
-speed: 0.02
+speed: 0.0
 research: "core-inception"
 displayedSpeed: 6.0
