@@ -5,5 +5,10 @@ speed: 32
 displayedSpeed: 16
 requirements: [
 	silver/6
-
 ]
+research: {
+parent: silver-conveyor
+requirements: [
+silver/25
+]
+}
