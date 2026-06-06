@@ -2,7 +2,7 @@ type: "bufferedItemBridge"
 name: "Silver Bridge Conveyor"
 description: "Transports items over terrain or buildings."
 displayedSpeed: 6.0
-range: 7
+range: 5
 transportTime: 0.04
 requirements: [
 	silver/15
