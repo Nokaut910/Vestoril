@@ -4,3 +4,7 @@ description: "Transports items over terrain or buildings."
 displayedSpeed: 6.0
 range: 7
 transportTime: 0.04
+requirements: [
+	silver/15
+	lead/20
+]
