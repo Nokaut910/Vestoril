@@ -8,3 +8,10 @@ requirements: [
 	silver/15
 	lead/20
 ]
+research: {
+parent: conveyor-router
+requirements: [
+silver/50
+lead/30
+]
+}
