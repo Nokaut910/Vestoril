@@ -1,6 +1,8 @@
 type: drill
 name: Mechanical Quarry
 description: When placed on ore, outputs items at a slow pace indefinitely. Higher tier resources require better drills.
+size: 2
+scaledHealth: 15
 tier: 1
 drillTime: 450
 liquidBoostIntensity: 1.8
