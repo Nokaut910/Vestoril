@@ -5,3 +5,9 @@ tier: 1
 drillTime: 450
 liquidBoostIntensity: 1.8
 drillEffectChance: 0.05
+research: {
+parent: core-inception
+requirements: [
+silver/10
+]
+}
