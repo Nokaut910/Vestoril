@@ -5,6 +5,7 @@ size: 2
 scaledHealth: 15
 tier: 1
 drillTime: 450
+hardnessDrillMultiplier: 25
 liquidBoostIntensity: 1.8
 drillEffectChance: 0.05
 research: {
@@ -16,3 +17,4 @@ silver/10
 requirements: [
 silver/15
 ]
+drawMineItem: false
