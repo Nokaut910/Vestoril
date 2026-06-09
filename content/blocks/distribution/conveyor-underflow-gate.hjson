@@ -6,7 +6,7 @@ silver/5
 lead/2
 ]
 research: {
-parent: conveyor-sorter
+parent: conveyor-underflow-gate
 requirements: [
 silver/40
 lead/35
