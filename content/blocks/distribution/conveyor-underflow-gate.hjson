@@ -13,3 +13,4 @@ lead/35
 ]
 }
 health: 25
+invert: true
