@@ -1,0 +1,17 @@
+type: router
+name: Conveyor Distributor
+description: Distributes items to 3 output directions equally.
+details: Not advised to put right next to factories, as this can clog the conveyor.
+health: 25
+speed: 32
+requirements: [
+	silver/25
+	lead/20
+]
+research: {
+parent: conveyor-router
+requirements: [
+silver/65
+lead/50
+]
+}
