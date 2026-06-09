@@ -1,0 +1,16 @@
+type: sorter
+name: Inverted Conveyor Sorter
+description: Similar to the normal sorter. If an input matches the selection, outputs the item to the sides. Otherwise, passes the items forward.
+requirements: [
+silver/4
+lead/2
+]
+research: {
+parent: conveyor-sorter
+requirements: [
+silver/30
+lead/25
+]
+}
+health: 15
+invert: true

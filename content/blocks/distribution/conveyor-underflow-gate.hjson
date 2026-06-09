@@ -1,0 +1,15 @@
+type: overflowGate
+name: Conveyor Underflow Gate
+description: Outputs items to the front if the sides are blocked.
+requirements: [
+silver/5
+lead/2
+]
+research: {
+parent: conveyor-sorter
+requirements: [
+silver/40
+lead/35
+]
+}
+health: 25
