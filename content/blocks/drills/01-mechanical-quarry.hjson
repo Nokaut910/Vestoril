@@ -5,16 +5,16 @@ size: 2
 scaledHealth: 15
 tier: 1
 drillTime: 450
-hardnessDrillMultiplier: 25
+hardnessDrillMultiplier: 100
 liquidBoostIntensity: 1.8
 drillEffectChance: 0.05
 research: {
 parent: core-inception
 requirements: [
-silver/10
+01-silver/10
 ]
 }
 requirements: [
-silver/15
+01-silver/15
 ]
 drawMineItem: false

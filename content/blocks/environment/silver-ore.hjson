@@ -1,3 +1,3 @@
 type: OreBlock
 name: Silver Ore
-itemDrop: silver
+itemDrop: 01-silver
