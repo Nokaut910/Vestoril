@@ -2,7 +2,7 @@ type: "Conveyor"
 name: "Silver Conveyor"
 description: "Moves items forward. Has a speed of 6 items per second."
 requirements: [
-	silver/1
+	01-silver/1
 ]
 category: "distribution"
 health: 30
@@ -10,7 +10,7 @@ speed: 0.04
 research: {
 parent: core-inception
 requirements: [
-silver/20
+01-silver/20
 ]
 }
 displayedSpeed: 6.0

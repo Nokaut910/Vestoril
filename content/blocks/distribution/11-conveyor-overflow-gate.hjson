@@ -2,13 +2,13 @@ type: overflowGate
 name: Conveyor Overflow Gate
 description: Outputs items to the sides if the front is blocked.
 requirements: [
-silver/5
+01-silver/5
 lead/2
 ]
 research: {
 parent: 07-conveyor-sorter
 requirements: [
-silver/40
+01-silver/40
 lead/35
 ]
 }

@@ -2,13 +2,13 @@ type: sorter
 name: Conveyor Sorter
 description: If an input matches the selection, passes the item forward. Otherwise, outputs items to the sides.
 requirements: [
-silver/4
+01-silver/4
 lead/2
 ]
 research: {
 parent: 09-conveyor-router
 requirements: [
-silver/30
+01-silver/30
 lead/25
 ]
 }

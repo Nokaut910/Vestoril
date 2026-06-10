@@ -5,11 +5,11 @@ details: "Not advised to put right next to factories, as this can clog the conve
 health: 25
 speed: 32
 requirements: [
-	silver/5
+	01-silver/5
 ]
 research: {
 parent: 05-conveyor-junction
 requirements: [
-silver/30
+01-silver/30
 ]
 }

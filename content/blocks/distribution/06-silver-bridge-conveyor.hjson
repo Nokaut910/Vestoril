@@ -5,13 +5,13 @@ displayedSpeed: 6.0
 range: 5
 transportTime: 0.04
 requirements: [
-	silver/15
+	01-silver/15
 	lead/20
 ]
 research: {
 parent: 09-conveyor-router
 requirements: [
-silver/50
+01-silver/50
 lead/30
 ]
 }

@@ -5,13 +5,13 @@ details: Not advised to put right next to factories, as this can clog the convey
 health: 25
 speed: 32
 requirements: [
-	silver/25
+	01-silver/25
 	lead/20
 ]
 research: {
 parent: 09-conveyor-router
 requirements: [
-silver/65
+01-silver/65
 lead/50
 ]
 }

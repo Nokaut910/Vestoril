@@ -4,11 +4,11 @@ description: "Acts as a bridge for two crossing conveyor belts."
 speed: 32
 displayedSpeed: 16
 requirements: [
-	silver/6
+	01-silver/6
 ]
 research: {
 parent: 01-silver-conveyor
 requirements: [
-silver/25
+01-silver/25
 ]
 }
