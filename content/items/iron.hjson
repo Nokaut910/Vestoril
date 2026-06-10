@@ -1,0 +1,6 @@
+name: Iron
+description: "A common material found on Vestoril. Used for most buildings, as better ammo, or as a material for more advanced resources."
+alwaysUnlocked: false
+color: c2c2c2
+research: lead
+shownPlanets: [vestoril]
