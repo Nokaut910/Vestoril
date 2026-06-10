@@ -1,4 +1,5 @@
 Welcome to Vestoril, a planet with an atmosphere very similar to Serpulo's.
+
 Even with this, the environmental conditions make this planet much different from Serpulo.
 
 Vestoril is a Mindustry planet mod which aims for making a difficult, yet fun to play campaign.
