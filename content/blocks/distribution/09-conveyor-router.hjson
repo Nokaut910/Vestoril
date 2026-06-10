@@ -8,7 +8,7 @@ requirements: [
 	silver/5
 ]
 research: {
-parent: conveyor-junction
+parent: 05-conveyor-junction
 requirements: [
 silver/30
 ]

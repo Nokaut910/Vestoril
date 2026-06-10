@@ -7,7 +7,7 @@ requirements: [
 	silver/6
 ]
 research: {
-parent: silver-conveyor
+parent: 01-silver-conveyor
 requirements: [
 silver/25
 ]

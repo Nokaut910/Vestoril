@@ -9,7 +9,7 @@ requirements: [
 	lead/20
 ]
 research: {
-parent: conveyor-router
+parent: 09-conveyor-router
 requirements: [
 silver/50
 lead/30

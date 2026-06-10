@@ -6,7 +6,7 @@ silver/4
 lead/2
 ]
 research: {
-parent: conveyor-sorter
+parent: 07-conveyor-sorter
 requirements: [
 silver/30
 lead/25

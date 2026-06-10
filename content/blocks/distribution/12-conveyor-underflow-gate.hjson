@@ -6,7 +6,7 @@ silver/5
 lead/2
 ]
 research: {
-parent: conveyor-overflow-gate
+parent: 11-conveyor-overflow-gate
 requirements: [
 silver/40
 lead/35

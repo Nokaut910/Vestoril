@@ -14,5 +14,5 @@ silver/20
 ]
 }
 displayedSpeed: 6.0
-junctionReplacement: "conveyor-junction"
-bridgeReplacement: "silver-bridge-conveyor"
+junctionReplacement: "05-conveyor-junction"
+bridgeReplacement: "06-silver-bridge-conveyor"
