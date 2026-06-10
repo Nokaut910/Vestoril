@@ -1,8 +1,9 @@
 type: CoreBlock
 name: Core: Inception
 description: Possibly the simplest core there is. Low armor and mediocre unit. Stores 3000 items.
+details: The first iteration. Compact and weak, but self-replicating.
 requirements: [
-  silver/1000
+  01-silver/1000
   lead/900
 ]
 isFirstTier: true

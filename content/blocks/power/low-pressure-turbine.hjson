@@ -8,7 +8,7 @@ research: {
 }
 squareSprite: false
 requirements: [
-	silver/300
+	01-silver/300
 	lead/250
 ]
 consumesLiquid: LowPressureSteam
@@ -22,7 +22,7 @@ researchCostMultiplier: 0.5
 research: {
 parent: high-pressure-turbine
 requirements: [
-	silver/500
+	01-silver/500
 	lead/900
 ]
 }

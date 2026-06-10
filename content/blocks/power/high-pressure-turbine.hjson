@@ -13,7 +13,7 @@ consumes: {
 craftTime: 1
 category: power
 requirements: [
-  silver/240
+  01-silver/240
   lead/300
 ]
 ambientSound: loopGrind
@@ -22,7 +22,7 @@ researchCostMultiplier: 0.6
 research: {
 parent: core-inception
 requirements: [
-	silver/700
+	01-silver/700
 	lead/1900
 ]
 }
