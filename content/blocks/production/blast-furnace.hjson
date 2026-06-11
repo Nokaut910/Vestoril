@@ -12,10 +12,10 @@
       },
       "output": {
         "items": [
-          "01-silver/4"
+          "01-silver/2"
         ]
       },
-      "craftTime": 45,
+      "craftTime": 10,
       "unlocked": true
     },
 
@@ -27,14 +27,13 @@
 		],
       },
       "output": {
-        "coal": 12
+        "coal/12"
       },
-      "craftTime": 75,
-      "unlocked": true
+      "craftTime": 40
     }
   ],
 
   "requirements": [
     "01-silver/24"
   ],
-  "category": "production"
+  "category": "factories"
