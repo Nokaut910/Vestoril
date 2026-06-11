@@ -27,7 +27,9 @@
 		],
       },
       "output": {
-        "coal/12"
+       "items": [
+		"coal/12"
+	   ]
       },
       "craftTime": 40
     }
