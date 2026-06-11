@@ -22,7 +22,9 @@
     {
       "name": "Coke Fuel",
       "input": {
-        "items": ["coal/10"],
+        "items": [
+			"coal/10"
+		],
       },
       "output": {
         "coal": 12
@@ -33,6 +35,6 @@
   ],
 
   "requirements": [
-    "silver/24"
+    "01-silver/24"
   ],
   "category": "production"
