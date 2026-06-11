@@ -1,0 +1,38 @@
+  "type": "MultiCrafter",
+  "health": 800,
+  "size": 3,
+  "itemCapacity": 20,
+  "jsonRecipes": [
+    {
+      "name": "Steel",
+      "input": {
+        "items": [
+          "06-iron/5"
+        ]
+      },
+      "output": {
+        "items": [
+          "01-silver/4"
+        ]
+      },
+      "craftTime": 45,
+      "unlocked": true
+    },
+
+    {
+      "name": "Coke Fuel",
+      "input": {
+        "items": ["coal/10"],
+      },
+      "output": {
+        "coal": 12
+      },
+      "craftTime": 75,
+      "unlocked": true
+    }
+  ],
+
+  "requirements": [
+    "silver/24"
+  ],
+  "category": "production"
