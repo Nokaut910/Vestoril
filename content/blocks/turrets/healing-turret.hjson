@@ -11,7 +11,7 @@
   targetHealing: true
   
   shootType: {
-    type: LaserBulletType
+    type: LaserBoltType
     damage: 0
     healPercent: 2
     colors: ["6ff549", "ffffff"]
