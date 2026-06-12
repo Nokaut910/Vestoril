@@ -55,6 +55,6 @@
     }
   }
   
-  category: turrets
+  category: defense
   research: repair-turret
 }
