@@ -4,6 +4,7 @@ description: Distributes items to 3 output directions equally.
 details: Not advised to put right next to factories, as this can clog the conveyor.
 health: 25
 speed: 32
+size: 2
 requirements: [
 	01-silver/25
 	lead/20
