@@ -6,6 +6,11 @@ reload: 5
 maxAmmo: 50
 ammoPerShot: 0.25
 inaccuracy: 1
+requirements: [
+	06-iron/190
+	01-silver/550
+	lead/220
+]
 shoot: [
  type: ShootAlternate
  spread: 8
