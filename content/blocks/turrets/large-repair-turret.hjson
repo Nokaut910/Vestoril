@@ -54,6 +54,10 @@
       optional: true
     }
   }
+  requirements: [
+  01-silver/200
+  ]
+  
   
   category: defense
   research: repair-turret
