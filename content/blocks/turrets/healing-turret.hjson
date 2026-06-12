@@ -29,6 +29,6 @@
   research: core-inception
   requirements: [
   01-silver/55
-  05-iron/40
+  06-iron/40
   ]
 }
