@@ -13,8 +13,13 @@
   shootType: {
     type: LaserBoltType
     damage: 0
-    healPercent: 2
-    colors: ["6ff549", "ffffff"]
+    speed: 5.5
+    lifetime: 35
+    height: 10
+    width: 2.5
+    healAmount: 20
+    frontColor: ffffff
+    backColor: 84f4a3
   }
   consumes: {
     power: 3.5
