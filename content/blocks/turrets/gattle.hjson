@@ -1,0 +1,39 @@
+type: itemTurret
+name: Gattle
+description: "Fires alternating, rapid streams of bullets at enemy targets."
+size: 4
+reload: 5
+maxAmmo: 50
+ammoPerShot: 0.25
+inaccuracy: 1
+shoot: [
+ type: ShootAlternate
+ spread: 8
+ firstShotDelay: 2
+ shotDelay: 0.075
+ shots: 2
+]
+range: 190
+shootSound: shootBeamPlasmaSmall
+loopSound: shootDisperse
+recoil: 1
+shake: 0.2
+rotateSpeed: 6
+activationTime: 0.5
+BulletType: {
+	06-iron: [
+	lifetime: 80
+	speed: 8
+	damage: 20
+	pierce: true
+	pierceCap: 1
+	pierceDamageFactor: 20
+	hitEffect: plasticExplosion
+	hitSound:
+	despawnHit: true
+	type: BasicBulletType
+	width: 6
+    height: 8
+	]
+	
+}
