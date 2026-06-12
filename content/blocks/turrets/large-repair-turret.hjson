@@ -1,7 +1,7 @@
 {
   type: PowerTurret
   name: "Large Repair Turret"
-  description: "Advanced 2x2 repair system. Rapidly fires alternating plasma bolts from dual barrels to sustain high-damage choke points."
+  description: "Heals allied blocks by shooting at them. Faster than the Repair Turret. Requires power. Can optionally be boosted with coolant to increase fire rate."
   health: 1200
   size: 2
   range: 17.5
@@ -56,9 +56,7 @@
   }
   requirements: [
   01-silver/200
-  ]
-  
-  
+  ] 
   category: defense
   research: repair-turret
 }
