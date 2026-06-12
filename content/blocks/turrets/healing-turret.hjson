@@ -16,8 +16,8 @@
     speed: 5.5
     lifetime: 35
     height: 10
-    width: 2.5
-    healAmount: 20
+    width: 7.5
+    healPercent: 4
     frontColor: ffffff
     backColor: 84f4a3
   }
