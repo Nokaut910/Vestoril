@@ -1,0 +1,60 @@
+{
+  type: PowerTurret
+  name: "Large Repair Turret"
+  description: "Advanced 2x2 repair system. Rapidly fires alternating plasma bolts from dual barrels to sustain high-damage choke points."
+  health: 1200
+  size: 2
+  range: 17.5
+  
+  targetHealing: true
+  targetAir: false
+  targetGround: true
+  
+  // Faster base reload speed for rapid fire
+  reload: 20
+  // Gives the turret a visual recoil step when firing
+  recoil: 1.5
+
+  // This block controls the alternating dual-barrel behavior
+  shoot: {
+    type: ShootAlternating
+    // Creates 2 distinct barrels
+    shots: 2
+    // Horizontal offset from the center for the left/right barrels
+    shotDelay: 0
+    // Spreads the projectiles apart so they line up with the turret barrels
+    spread: 5
+  }
+
+  shootType: {
+    type: LaserBoltType
+    damage: 0
+    speed: 7
+    lifetime: 32
+    
+    // Slightly larger bolts for Tier 2, but still clean and compact
+    height: 12
+    width: 5
+    
+    // Higher heal amount per bolt to match Tier 2 performance
+    healPercent: 4
+    
+    frontColor: ffffff
+    backColor: 84f4a3
+  }
+
+  hasPower: true
+  consumes: {
+    // Increased power draw for Tier 2
+    power: 4.0
+    liquid: {
+      liquid: cryofluid
+      amount: 0.15
+      booster: true
+      optional: true
+    }
+  }
+  
+  category: turrets
+  research: repair-turret
+}

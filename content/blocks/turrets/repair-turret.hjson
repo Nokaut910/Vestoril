@@ -30,7 +30,7 @@
   }
   
   reload: 45
-  category: defense
+  category: turrets
   research: core-inception
   requirements: [
   01-silver/55
