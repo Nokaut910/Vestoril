@@ -1,0 +1,34 @@
+{
+  type: PowerTurret
+  name: "Repair Turret"
+  description: "Heals allied blocks by shooting at them. Requires power. Can optionally be boosted with coolant to increase fire rate."
+  health: 700
+  size: 1
+  range: 240
+  
+  targetAir: false
+  targetGround: true
+  targetHealing: true
+  
+  shootType: {
+    type: LaserBulletType
+    damage: 0
+    healPercent: 2
+    colors: ["6ff549", "ffffff"]
+  }
+  consumes: {
+    power: 3.5
+    coolant: {
+      amount: 0.2
+      optional: true
+    }
+  }
+  
+  reload: 45
+  category: defense
+  research: core-inception
+  requirements: [
+  01-silver/55
+  05-iron/40
+  ]
+}
