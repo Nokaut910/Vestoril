@@ -24,7 +24,7 @@ shake: 0.2
 rotateSpeed: 6
 activationTime: 0.5
 BulletType: {
-	06-iron: [
+	06-iron: {
 	lifetime: 80
 	speed: 8
 	damage: 20
@@ -40,6 +40,6 @@ BulletType: {
 	ammoMultiplier: 4
 	splashDamage: 6
 	displayAmmoMultiplier: true
-	]
+	}
 	
 }
