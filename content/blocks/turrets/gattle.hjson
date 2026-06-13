@@ -1,4 +1,4 @@
-type: itemTurret
+type: ItemTurret
 name: Gattle
 description: "Fires alternating, rapid streams of bullets at enemy targets."
 size: 4
@@ -24,7 +24,6 @@ loopSound: shootDisperse
 recoil: 1
 shake: 0.2
 rotateSpeed: 6
-activationTime: 0.5
 ammoType: {
 	06-iron: {
 	lifetime: 80
