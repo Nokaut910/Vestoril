@@ -24,7 +24,7 @@ recoil: 1
 shake: 0.2
 rotateSpeed: 6
 activationTime: 0.5
-BulletType: {
+bulletType: {
 	06-iron: {
 	lifetime: 80
 	speed: 8
