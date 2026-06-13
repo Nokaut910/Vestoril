@@ -11,11 +11,11 @@ requirements: [
 	01-silver/550
 	lead/220
 ]
-shoot: [
+shoot: {
  type: ShootAlternate
  spread: 8
  shotDelay: 0.075
-]
+}
 range: 190
 shootSound: shootBeamPlasmaSmall
 loopSound: shootDisperse
