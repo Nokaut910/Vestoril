@@ -18,7 +18,7 @@ shoot: {
  shots: 2  
  shotDelay: 0.075
 }
-range: 190
+range: 240
 shootSound: shootBeamPlasmaSmall
 loopSound: shootDisperse
 recoil: 1
@@ -26,7 +26,7 @@ shake: 0.2
 rotateSpeed: 6
 ammoTypes: {
 	"06-iron": {
-	lifetime: 80
+	lifetime: 30
 	speed: 8
 	damage: 20
 	pierce: true
