@@ -24,7 +24,7 @@ loopSound: shootDisperse
 recoil: 1
 shake: 0.2
 rotateSpeed: 6
-BulletType: {
+AmmoType: {
 	"06-iron": {
 	lifetime: 80
 	speed: 8
