@@ -6,6 +6,7 @@ reload: 5
 maxAmmo: 50
 ammoPerShot: 0.25
 inaccuracy: 1
+category: turret
 requirements: [
 	06-iron/190
 	01-silver/550
@@ -32,7 +33,6 @@ BulletType: {
 	pierceCap: 1
 	pierceDamageFactor: 20
 	hitEffect: plasticExplosion
-	hitSound:
 	despawnHit: true
 	type: BasicBulletType
 	width: 6
