@@ -4,7 +4,7 @@ description: "Fires alternating, rapid streams of bullets at enemy targets."
 size: 4
 reload: 5
 maxAmmo: 50
-ammoPerShot: 0.25
+ammoPerShot: 1
 inaccuracy: 1
 category: turret
 requirements: [
@@ -15,6 +15,7 @@ requirements: [
 shoot: {
  type: ShootAlternate
  spread: 8
+ shots: 2  
  shotDelay: 0.075
 }
 range: 190
@@ -31,7 +32,7 @@ bulletType: {
 	damage: 20
 	pierce: true
 	pierceCap: 1
-	pierceDamageFactor: 20
+	pierceDamageFactor: 0.2
 	hitEffect: plasticExplosion
 	despawnHit: true
 	type: BasicBulletType
