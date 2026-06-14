@@ -4,3 +4,4 @@ alwaysUnlocked: false
 color: 575757
 research: 01-silver
 shownPlanets: [vestoril]
+buildable: false

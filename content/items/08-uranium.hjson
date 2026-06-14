@@ -4,3 +4,4 @@ alwaysUnlocked: false
 color: b3d696
 research: 05-steel
 shownPlanets: [vestoril]
+buildable: false

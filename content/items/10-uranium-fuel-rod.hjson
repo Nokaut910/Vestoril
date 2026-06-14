@@ -4,3 +4,4 @@ alwaysUnlocked: false
 color: dbe3d5
 research: 08-uranium
 shownPlanets: [vestoril]
+buildable: false
