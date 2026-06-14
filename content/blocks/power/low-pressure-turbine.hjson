@@ -11,8 +11,8 @@ requirements: [
 	01-silver/300
 	lead/250
 ]
-consumesLiquid: LowPressureSteam
-outputLiquid: LowPressureSteam/1
+consumesLiquid: 03-LowPressureSteam
+outputLiquid: 03-LowPressureSteam/1
 powerProduction: 60
 itemDuration: 1
 generateEffect: generatespark

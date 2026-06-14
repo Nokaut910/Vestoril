@@ -25,7 +25,7 @@ recoil: 1
 shake: 0.2
 rotateSpeed: 6
 ammoTypes: {
-	"06-iron": {
+	"04-iron": {
 	lifetime: 30
 	speed: 8
 	damage: 40

@@ -5,10 +5,10 @@ size: 3
 scaledHealth: 240
 squareSprite: false
 outputLiquids: [
-  LowPressureSteam/4
+  03-LowPressureSteam/4
 ]
 consumes: {
-  liquid: HighPressureSteam/2
+  liquid: 02-HighPressureSteam/2
 }
 craftTime: 1
 category: power
