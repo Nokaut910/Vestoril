@@ -1,0 +1,6 @@
+name: Magnetite
+description: "A magnetic metal created by fusing iron and geomagnetite in a complex reaction. Used as homing ammo, in advanced structures, and more efficient electronics."
+alwaysUnlocked: false
+color: 5143d1
+research: 04-iron
+shownPlanets: [vestoril]

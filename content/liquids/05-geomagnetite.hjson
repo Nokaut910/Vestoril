@@ -1,0 +1,19 @@
+name: Geomagnetite
+description: A cold liquid, containing magnetic properties. Can be made into magnetite for proper use.
+details: Created when an asteroid crashed onto the highest peak on Vestoril, containing very high amounts of magnesium. With the heat created from the impact, the magnesium melted down into geomagnetite, which has been cooling down ever since and doesn't look like it'll stop anytime soon. It spread everywhere, even forming a giant delta at the bottom of the mountains. Yet still, nobody knows where its distinctive purple color comes from.
+heatCapacity: 0.4
+explosiveness: 0
+temperature: 0.3
+coolant: false
+viscosity: 0.2
+gas: false
+color: 825fe3
+flammability: 0
+barColor: 825fe3
+incinerable: true
+lightColor: ffffff00
+research: {
+  parent: water
+  objectives: [ 
+  ]
+}
