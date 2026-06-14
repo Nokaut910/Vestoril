@@ -1,4 +1,3 @@
-{
   type: PowerTurret
   name: "Large Repair Turret"
   description: "Heals allied blocks by shooting at them. Faster than the Repair Turret. Requires power. Can optionally be boosted with coolant to increase fire rate."
@@ -59,4 +58,3 @@
   ] 
   category: defense
   research: repair-turret
-}

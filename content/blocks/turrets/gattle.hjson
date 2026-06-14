@@ -28,7 +28,7 @@ ammoTypes: {
 	"06-iron": {
 	lifetime: 30
 	speed: 8
-	damage: 20
+	damage: 40
 	pierce: true
 	pierceCap: 1
 	pierceDamageFactor: 0.2
