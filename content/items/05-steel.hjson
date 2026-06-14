@@ -1,0 +1,6 @@
+name: Steel
+description: "An artificial metal. Used for unit production, as stronger ammo, and in a lot of production lines."
+alwaysUnlocked: false
+color: 4d4d4d
+research: 04-iron
+shownPlanets: [vestoril]

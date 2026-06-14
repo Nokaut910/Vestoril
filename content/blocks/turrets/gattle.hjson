@@ -8,7 +8,7 @@ ammoPerShot: 1
 inaccuracy: 1
 category: turret
 requirements: [
-	06-iron/190
+	04-iron/190
 	01-silver/550
 	lead/220
 ]

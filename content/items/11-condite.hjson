@@ -1,0 +1,6 @@
+name: Condite
+description: "An artificial, extremely sturdy glass-like material. Used for advanced liquid related machines, or as a step in production of Neodite."
+alwaysUnlocked: false
+color: d5e2eb
+research: 03-reinforced-glass
+shownPlanets: [vestoril]

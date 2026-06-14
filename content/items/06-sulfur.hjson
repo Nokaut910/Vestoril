@@ -1,0 +1,6 @@
+name: Sulfur
+description: "A flammable powder sometimes used in flammable ammunition or production of flammable resources."
+alwaysUnlocked: false
+color: e4e68c
+research: coal
+shownPlanets: [vestoril]

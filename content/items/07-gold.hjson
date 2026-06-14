@@ -1,0 +1,6 @@
+name: Gold
+description: "A conductive metal used in advanced electronics, unit production and in large capacity power storage."
+alwaysUnlocked: false
+color: d3af37
+research: lead
+shownPlanets: [vestoril]

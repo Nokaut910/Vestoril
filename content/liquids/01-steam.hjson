@@ -1,0 +1,19 @@
+name: Steam
+description: Created from boiling water in a boiler. Used for steam turbines to generate power, or in processes requiring steam.
+heatCapacity: 1
+explosiveness: 0
+temperature: 0.7
+coolant: false
+viscosity: 0
+gas: true
+color: e0e0e0
+flammability: 0
+gasColor: e0e0e0
+barColor: e0e0e0
+incinerable: true
+lightColor: ffffff00
+research: {
+  parent: water
+  objectives: [ 
+  ]
+}

@@ -13,7 +13,7 @@ barColor: bfbfbf
 incinerable: true
 lightColor: ffffff00
 research: {
-  parent: silver
+  parent: water
   objectives: [ 
   ]
 }

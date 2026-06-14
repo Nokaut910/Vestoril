@@ -1,0 +1,18 @@
+name: Steam
+description: A corrosive acid, created by liquefying sulfur. Used as a corrosive liquid in defense, or for advanced refinement processes.
+heatCapacity: 0.4
+explosiveness: 0
+temperature: 0.5
+coolant: false
+viscosity: 0
+gas: false
+color: fcffbd
+flammability: 0
+barColor: fcffbd
+incinerable: true
+lightColor: ffffff00
+research: {
+  parent: 06-sulfur
+  objectives: [ 
+  ]
+}

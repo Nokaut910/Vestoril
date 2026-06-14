@@ -1,0 +1,6 @@
+name: Zirconium
+description: "A very tough metal used for encasing uranium fuel rods, chosen because of its hardness and corrosion resistance."
+alwaysUnlocked: false
+color: b7bab5
+research: 05-steel
+shownPlanets: [vestoril]

@@ -1,0 +1,6 @@
+name: Reinforced Glass
+description: "Used for almost anything related to liquids, and as fragging ammunition."
+alwaysUnlocked: false
+color: dedede
+research: lead
+shownPlanets: [vestoril]

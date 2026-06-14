@@ -1,0 +1,6 @@
+name: Carbon Rock
+description: "A broken up rock, with high amounts of carbon. Used for grinding into coal."
+alwaysUnlocked: false
+color: 575757
+research: 01-silver
+shownPlanets: [vestoril]

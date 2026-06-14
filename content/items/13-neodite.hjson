@@ -1,0 +1,6 @@
+name: Neodite
+description: "An extremely tough artificial alloy, used for tier 5 units, as very strong ammunition, in final electronics, or in anything else requiring an extremely strong material"
+alwaysUnlocked: false
+color: c1dbb6
+research: 12-electrite
+shownPlanets: [vestoril]

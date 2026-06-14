@@ -1,0 +1,6 @@
+name: Uranium
+description: "A radioactive metallic rock used in nuclear power, or in production of radioactive materials"
+alwaysUnlocked: false
+color: b3d696
+research: 05-steel
+shownPlanets: [vestoril]

@@ -1,0 +1,6 @@
+name: Uranium Fuel Rod
+description: "A fuel rod with uranium pellets inside, encased in zirconium. Used for nuclear power."
+alwaysUnlocked: false
+color: dbe3d5
+research: 08-uranium
+shownPlanets: [vestoril]

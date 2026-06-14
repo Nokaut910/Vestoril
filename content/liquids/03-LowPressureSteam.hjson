@@ -13,7 +13,7 @@ barColor: d1d1d1
 incinerable: true
 lightColor: ffffff00
 research: {
-  parent: HighPressureSteam
+  parent: 02-HighPressureSteam
   objectives: [ 
   ]
 }

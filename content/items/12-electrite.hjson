@@ -1,0 +1,6 @@
+name: Electrite
+description: "An artificial metal, with extremely high conductivity. Used in complex electronics, as charged ammunition, or as a step in production of Neodite."
+alwaysUnlocked: false
+color: f7fa9b
+research: 07-gold
+shownPlanets: [vestoril]

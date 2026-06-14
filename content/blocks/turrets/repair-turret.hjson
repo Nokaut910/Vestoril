@@ -1,4 +1,3 @@
-{
   type: PowerTurret
   name: "Repair Turret"
   description: "Heals allied blocks by shooting at them. Requires power. Can optionally be boosted with coolant to increase fire rate."
@@ -34,6 +33,5 @@
   research: core-inception
   requirements: [
   01-silver/55
-  06-iron/40
+  04-iron/40
   ]
-}
