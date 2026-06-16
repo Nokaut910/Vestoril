@@ -5,3 +5,4 @@ color: e4e68c
 research: coal
 shownPlanets: [vestoril]
 buildable: false
+hardness: 1

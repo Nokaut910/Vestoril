@@ -4,3 +4,4 @@ alwaysUnlocked: true
 color: bdbdbd
 research: vestoril-core-inception
 shownPlanets: [vestoril]
+hardness: 1

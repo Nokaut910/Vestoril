@@ -5,3 +5,4 @@ color: b7bab5
 research: 05-steel
 shownPlanets: [vestoril]
 buildable: false
+hardness: 5
