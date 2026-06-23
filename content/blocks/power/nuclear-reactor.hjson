@@ -1,6 +1,6 @@
 type: NuclearReactor
 name: Nuclear Reactor
-desc: Generates extensive amounts of power by using nuclear fission with Uranium Fuel Rods, producing nuclear waste in the process. Requires large amounts of Distilled Water to cool down. Explodes EXTREMELY violently if not enough distilled water is supplied.
+description: Generates extensive amounts of power by using nuclear fission with Uranium Fuel Rods, producing nuclear waste in the process. Requires large amounts of Distilled Water to cool down. Explodes EXTREMELY violently if not enough distilled water is supplied.
 itemDuration: 1200
 fuelItem: 11-uranium-fuel-rod
 powerProduction: 120
