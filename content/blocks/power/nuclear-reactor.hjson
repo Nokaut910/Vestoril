@@ -7,3 +7,7 @@ powerProduction: 120
 explosionRadius: 48
 explosionDamage: 5400
 explosionShake: 3
+requirements: [
+	01-silver/700
+	lead/1900
+]
