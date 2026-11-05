@@ -7,7 +7,7 @@
   outputItems: [
 	05-steel/2
   ]
-  consumes: [
+  consume: [
     04-iron/4
 	coal/3
   ]
