@@ -9,4 +9,3 @@ Vestoril is a planet.
 '''
 Version: "0.1"
 minGameVersion: "154"
-"dependencies": ["multicrafter"]

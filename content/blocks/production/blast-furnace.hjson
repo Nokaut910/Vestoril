@@ -1,41 +1,20 @@
-  "type": "MultiCrafter",
-  "health": 800,
-  "size": 3,
-  "itemCapacity": 20,
-  "jsonRecipes": [
-    {
-      "name": "Steel",
-      "input": {
-        "items": [
-          "04-iron/5"
-        ]
-      },
-      "output": {
-        "items": [
-          "01-silver/2"
-        ]
-      },
-      "craftTime": 10,
-      "unlocked": true
-    },
+  type: GenericCrafter
+  name : Blast Furnace
+  description: Uses Iron and Coal to create highly versatile Steel.
+  health: 800
+  size: 3
+  itemCapacity: 20
+  outputItems: [
+	05-steel/2
+  ]
+  consumes: [
+    04-iron/4
+	coal/3
+  ]
 
-    {
-      "name": "Coke Fuel",
-      "input": {
-        "items": [
-			"coal/10"
-		],
-      },
-      "output": {
-       "items": [
-		"coal/12"
-	   ]
-      },
-      "craftTime": 40
-    }
-  ],
-
-  "requirements": [
-    "01-silver/24"
-  ],
-  "category": "crafting"
+  requirements: [
+    04-iron/35
+	01-silver/24
+	lead/24	
+  ]
+  category: crafting
